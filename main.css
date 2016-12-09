@@ -2,10 +2,14 @@ body{
 	font-family: 'roboto', Helvetica, Arial, sans-serif;
 }
 
-nav{
+header{
 	width:100%;
 	background-color: gold;
 	margin-bottom: 20px;
+}
+
+header h1, header p{
+	padding-left: 0;
 }
 
 h1, p, h2{
