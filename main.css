@@ -8,17 +8,25 @@ nav{
 	margin-bottom: 20px;
 }
 
+h1, p, h2{
+	margin: 0;
+}
+
 h1, h2{
-	padding: 15px 0 0 15px;
+	padding: 10px 0 0 15px;
 }
 
 p{
-	padding: 0 0 15px 15px;
+	padding: 0 0 10px 15px;
 }
 
 .card{
 	border: 1px solid gray;
 	margin-bottom: 20px;
+}
+
+.card p{
+	margin: 10px 0;
 }
 
 .card img{
