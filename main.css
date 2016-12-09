@@ -1,0 +1,27 @@
+body{
+	font-family: 'roboto', Helvetica, Arial, sans-serif;
+}
+
+nav{
+	width:100%;
+	background-color: gold;
+	margin-bottom: 20px;
+}
+
+h1, h2{
+	padding: 15px 0 0 15px;
+}
+
+p{
+	padding: 0 0 15px 15px;
+}
+
+.card{
+	border: 1px solid gray;
+	margin-bottom: 20px;
+}
+
+.card img{
+	width:100%;
+}
+
